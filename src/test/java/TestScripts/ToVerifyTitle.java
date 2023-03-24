@@ -10,7 +10,7 @@ public class ToVerifyTitle extends BaseClass {
 	
 	
 	@Test
-	public void ToVerifyPageTitle() {
+	public void ToVerifyPageTitleTest() {
 		String expectedtitle = "Enter";
 		
 		WebDriverutility WUtilis = new WebDriverutility();
